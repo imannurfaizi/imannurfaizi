@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @imannurfaizi
-- 👀 I’m interested in
+- 👀 I’m interested in AI/ML
 - 🌱 I’m currently learning Python Programming
 - 📫 How to reach me (Ig: imnrfzyy_)
 
